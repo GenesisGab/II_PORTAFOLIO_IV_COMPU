@@ -13,9 +13,6 @@ public class img {
 		System.out.println("          ______   ______   ______   ______    ");
 		System.out.println("         /_____/  /_____/  /_____/  /_____/    ");
 		System.out.println(" ________________________________________________________");
-	//	System.out.println("Si usted esta utilizando el programa por \nprimera vez ingrese la palabra: help para \nver los comandos que puede utilizar");
-	//	System.out.println(" ____________________________________________");
-		 
 	
 	CommandList comandos = new CommandList();
 			 
@@ -47,8 +44,9 @@ public class img {
 			System.out.println("");
 			System.out.println("\n      Para ejecutar el comando tecle nombre y luego ");
 			System.out.println("        presione Enter. Ejemplo: suma + Enter");
+			System.out.println("Si necesita conocer mas detalle de cada comando tecle help");
 			System.out.println(" ________________________________________________________");
-	
+			
 		
 	}
 }

@@ -60,9 +60,6 @@ public class Main {
 			else {
 				System.out.println("Comando no encontrado");
 				System.out.println("Ingresa help para ver los comandos disponibles");
-				System.out.println("(\\_/)\r\n"
-						+ "( •,•)\r\n"
-						+ "(\")_(\")");
 			}
 		}while(on);
 		
